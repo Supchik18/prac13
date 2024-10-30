@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_light_primary">#FFFFFF</color> <!-- Белый цвет -->
+    <color name="my_light_primary_dark">#000000</color> <!-- Черный цвет -->
+    <color name="my_light_background">#FFFFFF</color> <!-- Белый фон -->
+    <color name="my_dark_primary">#000000</color> <!-- Черный цвет -->
+    <color name="my_dark_primary_light">#FFFFFF</color> <!-- Белый цвет -->
+    <color name="my_dark_background">#000000</color> <!-- Черный фон -->
+</resources>
